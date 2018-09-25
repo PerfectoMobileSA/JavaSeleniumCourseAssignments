@@ -26,9 +26,9 @@ public class RemoteWebDriverTest {
 
         String browserName = "mobileOS";
         DesiredCapabilities capabilities = new DesiredCapabilities(browserName, "", Platform.ANY);
-        String host = "ps.perfectomobile.com";
-        capabilities.setCapability("user", "yaronw@perfectomobile.com");
-        capabilities.setCapability("password", "Aa562041!");
+        String host = "MYHOST.perfectomobile.com";
+        capabilities.setCapability("user", "");
+        capabilities.setCapability("password", "");
 
         //TODO: Change your device ID
         capabilities.setCapability("platformName", "Android");
