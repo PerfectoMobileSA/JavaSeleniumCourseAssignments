@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSeleniumCourse.iml" filepath="$PROJECT_DIR$/JavaSeleniumCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSeleniumCourse_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSeleniumCourse_main.iml" group="JavaSeleniumCourse" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSeleniumCourse_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSeleniumCourse_test.iml" group="JavaSeleniumCourse" />
+    </modules>
+  </component>
+</project>
