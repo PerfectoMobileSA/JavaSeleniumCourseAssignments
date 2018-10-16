@@ -28,9 +28,9 @@ public class Assignment02_Location {
         System.out.println("Run started");
         String browserName = "mobileOS";
         DesiredCapabilities capabilities = new DesiredCapabilities(browserName, "", Platform.ANY);
-        String host = "ps.perfectomobile.com";
-        capabilities.setCapability("user", "yaronw@perfectomobile.com");
-        capabilities.setCapability("password", "Aa562041!");
+        String host = "MYCLOUD.perfectomobile.com";
+        capabilities.setCapability("user", "");
+        capabilities.setCapability("password", "");
 
 
         /***************************
