@@ -71,7 +71,7 @@ public class Assignment04A_Imageinjection {
 
             reportiumClient.stepStart("Prepare - app & image");
                 //uploading image to repository
-            PerfectoLabUtils.uploadMedia("ps.perfectomobile.com", "yaronw@perfectomobile.com", "Aa562041!", "/Users/yaronw/seek_perfection.jpg", "PRIVATE:perfectoSample.png");
+            PerfectoLabUtils.uploadMedia("ps.perfectomobile.com", "myuser", "mypassword", "/Users/yaronw/seek_perfection.jpg", "PRIVATE:perfectoSample.png");
                // close the app in case it is running from previous iteration
                 try {
                     Map<String, Object> params2 = null;
